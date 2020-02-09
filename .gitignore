@@ -1,0 +1,5 @@
+.aws
+.venv
+.envrc
+.vscode
+__pycache__
