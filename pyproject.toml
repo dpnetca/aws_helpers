@@ -12,7 +12,7 @@ boto3 = "^1.28"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^5.0.4"
-black = "^23.7"
+black = "^23.9"
 bandit = "^1.6.2"
 
 [build-system]
